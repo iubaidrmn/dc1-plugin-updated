@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/053b9128-34f8-4fd9-a46b-a55c23e959f8)
+
 DC1 Plugin
 Description:
 The DC1 Plugin is a custom WordPress plugin designed for the icodeguru website to add a user dashboard with features such as user signup, login, and progress tracking. It stores user-related data, such as IELTS scores, typing speed, hackathons, and more, in a custom database table. The plugin includes activation and deactivation hooks for managing the database table and enabling button functionality.
